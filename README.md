@@ -1,0 +1,1 @@
+This repository documents my journey through DataCamp's Data Analyst Career Tracks, showcasing practical projects, exercises, and progress as I develop essential data analysis skills using SQL, Python, and Databricks.
