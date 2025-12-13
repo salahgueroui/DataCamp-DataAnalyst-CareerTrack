@@ -16,5 +16,8 @@ SELECT title,author
 FROM books;
 
 -- Instructions 3
--- Select all columns from the books table.
+-- Select all fields from the books table.
 -- MY SOLUTION:
+
+SELECT *
+FROM books;
