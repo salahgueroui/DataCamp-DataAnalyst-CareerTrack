@@ -9,8 +9,11 @@ SELECT title
 FROM books;
 
 -- Instructions 2
--- Select both title and author from the books table.
+-- Select both the title and author fields from books.
 -- MY SOLUTION:
+
+SELECT title,author
+FROM books;
 
 -- Instructions 3
 -- Select all columns from the books table.
