@@ -14,3 +14,6 @@ FROM books;
 --Check that the view was created by selecting all columns from library_authors.
 
 -- MY SOLUTION:
+
+SELECT *
+FROM library_authors;
