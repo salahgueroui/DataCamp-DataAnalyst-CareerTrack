@@ -22,3 +22,6 @@ from people;
 
 -- MY SOLUTION:
 
+select count(language) as  count_languages,
+       count(country) as count_countries
+from films;
