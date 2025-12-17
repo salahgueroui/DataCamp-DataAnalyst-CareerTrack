@@ -14,7 +14,8 @@ from people;
 
 -- MY SOLUTION:
 
-
+select count(birthdate) as count_birthdate
+from people;
 
 -- Instructions 3
 -- Count the records for languages and countries in the films table; alias as count_languages and count_countries.
