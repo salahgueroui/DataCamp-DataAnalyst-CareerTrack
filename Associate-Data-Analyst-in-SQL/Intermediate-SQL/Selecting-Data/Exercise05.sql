@@ -26,5 +26,11 @@ FROM reviews;
 
 -- Instructions 3
 -- Find the two bugs in this final query.
+-- Debug this code
+SELECT COUNNT(birthdate) AS count_birthdays
+FROM peeple;
 
 -- MY SOLUTION:
+
+SELECT COUNT(birthdate) AS count_birthdays
+FROM people;
