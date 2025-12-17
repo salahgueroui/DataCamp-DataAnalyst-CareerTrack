@@ -12,5 +12,7 @@ from films;
 -- Instructions 2
 -- Return the number of unique countries represented in the films table, aliased as count_distinct_countries.
 
-
 -- MY SOLUTION:
+
+select count(distinct(country)) as count_distinct_countries
+from films;
