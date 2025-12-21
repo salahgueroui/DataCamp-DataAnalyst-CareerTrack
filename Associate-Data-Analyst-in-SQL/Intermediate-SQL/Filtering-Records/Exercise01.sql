@@ -8,6 +8,9 @@
 
 -- MY SOLUTION:
 
+Select film_id,imdb_score
+from reviews
+where imdb_score>7.0
 
 -- Instructions 2
 -- Select the film_id and facebook_likes of the first ten records
