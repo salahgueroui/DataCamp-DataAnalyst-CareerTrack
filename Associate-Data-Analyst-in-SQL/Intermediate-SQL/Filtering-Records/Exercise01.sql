@@ -18,6 +18,10 @@ where imdb_score>7.0
 
 -- MY SOLUTION:
 
+Select film_id,facebook_likes
+from reviews
+where facebook_likes<1000
+limit 10
 
 -- Instructions 3
 -- Count how many records have a num_votes of at least 100,000;
