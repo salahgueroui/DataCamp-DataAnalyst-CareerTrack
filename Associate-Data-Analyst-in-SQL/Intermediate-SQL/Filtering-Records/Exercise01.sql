@@ -28,3 +28,7 @@ limit 10
 -- use the alias films_over_100K_votes.
 
 -- MY SOLUTION:
+
+select count(num_votes)as films_over_100K_votes
+from reviews
+where num_votes>=100000
