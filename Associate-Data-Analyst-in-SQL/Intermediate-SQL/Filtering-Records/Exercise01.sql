@@ -16,7 +16,7 @@ where imdb_score>7.0
 -- Select the film_id and facebook_likes of the first ten records
 -- with less than 1000 likes from the reviews table.
 
--- MY SOLUTION:
+-- MY SOLUTION:----------------
 
 Select film_id,facebook_likes
 from reviews
