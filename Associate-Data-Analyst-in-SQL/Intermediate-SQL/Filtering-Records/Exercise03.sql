@@ -29,3 +29,9 @@ WHERE release_year > 2000
 -- but before 2010 using only WHERE and AND.
 
 -- MY SOLUTION:
+
+select *
+from films
+where language='German'
+    and release_year >2000
+    and release_year<2010;
