@@ -19,6 +19,10 @@ where language = 'German'
 
 -- MY SOLUTION:
 
+SELECT title, release_year
+FROM films
+WHERE release_year > 2000
+	AND language = 'German';
 
 -- Instructions 3
 -- Select all details for German-language films released after 2000
