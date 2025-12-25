@@ -17,6 +17,12 @@ where release_year between 1990 and 2000
 
 -- MY SOLUTION:
 
+SELECT title, release_year
+FROM films
+WHERE release_year BETWEEN 1990 AND 2000
+-- Narrow down your query to films with budgets > $100 million
+and budget>100000000
+;
 
 -- Instructions 3
 -- Update the query to include only films with budgets over $100 million.
