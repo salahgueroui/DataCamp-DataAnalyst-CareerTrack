@@ -7,6 +7,9 @@
 
 -- MY SOLUTION:
 
+select name
+from people
+where name like 'B%'
 
 -- Instructions 2
 -- Select the names of people whose names have 'r' as the second letter.
