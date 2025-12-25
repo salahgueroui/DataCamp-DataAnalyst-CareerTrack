@@ -16,6 +16,10 @@ where name like 'B%'
 
 -- MY SOLUTION:
 
+SELECT name
+FROM people
+-- Select the names that have r as the second letter
+where name like '_r%'
 
 -- Instructions 3
 -- Select the names of people whose names don't start with 'A'.
