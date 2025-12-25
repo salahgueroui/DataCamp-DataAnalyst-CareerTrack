@@ -29,6 +29,12 @@ and budget>100000000
 
 -- MY SOLUTION:
 
+SELECT title, release_year
+FROM films
+WHERE release_year BETWEEN 1990 AND 2000
+	AND budget > 100000000
+-- Restrict the query to only Spanish-language films
+and language='Spanish';
 
 -- Instructions 4
 -- Combine all filters to get Spanish-language films released between
