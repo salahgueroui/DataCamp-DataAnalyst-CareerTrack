@@ -25,3 +25,8 @@ where name like '_r%'
 -- Select the names of people whose names don't start with 'A'.
 
 -- MY SOLUTION:
+
+SELECT name
+FROM people
+-- Select names that don't start with A
+where name not like 'A%'
