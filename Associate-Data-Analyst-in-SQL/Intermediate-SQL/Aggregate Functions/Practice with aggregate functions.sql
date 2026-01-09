@@ -8,6 +8,8 @@
 
 -- MY SOLUTION:
 
+select sum(duration)as total_duration
+from films
 
 -- Instructions 2
 -- Calculate the average duration of all films and alias with average_duration.
