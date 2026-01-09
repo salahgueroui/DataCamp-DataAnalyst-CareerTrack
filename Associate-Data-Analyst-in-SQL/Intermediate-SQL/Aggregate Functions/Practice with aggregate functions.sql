@@ -25,6 +25,8 @@ from films
 
 -- MY SOLUTION:
 
+select max(release_year)as latest_year
+from films 
 
 -- Instructions 4
 -- Find the duration of the shortest film and use the alias shortest_film.
