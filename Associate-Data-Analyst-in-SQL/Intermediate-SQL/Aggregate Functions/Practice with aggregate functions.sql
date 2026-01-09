@@ -16,6 +16,8 @@ from films
 
 -- MY SOLUTION:
 
+select avg(duration)as average_duration
+from films
 
 -- Instructions 3
 -- Find the most recent release_year in the films table,
