@@ -23,7 +23,7 @@ from films
 -- Find the most recent release_year in the films table,
 -- aliasing as latest_year.
 
--- MY SOLUTION:
+-- MY SOLUTION:----
 
 select max(release_year)as latest_year
 from films 
