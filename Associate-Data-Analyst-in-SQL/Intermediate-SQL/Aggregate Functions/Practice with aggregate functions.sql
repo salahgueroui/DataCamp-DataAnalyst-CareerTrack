@@ -31,7 +31,7 @@ from films
 -- Instructions 4
 -- Find the duration of the shortest film and use the alias shortest_film.
 
--- MY SOLUTION:
+-- MY SOLUTION:----
 
 select min(duration)as shortest_film
 from films
