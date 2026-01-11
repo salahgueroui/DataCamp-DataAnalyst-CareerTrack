@@ -14,7 +14,7 @@ from films
 -- Instructions 2
 -- Calculate the average duration of all films and alias with average_duration.
 
--- MY SOLUTION:---
+-- MY SOLUTION:-------
 
 select avg(duration)as average_duration
 from films
