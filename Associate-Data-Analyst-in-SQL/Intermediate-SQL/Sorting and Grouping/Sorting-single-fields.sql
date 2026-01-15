@@ -8,6 +8,9 @@
 
 -- MY SOLUTION:
 
+SELECT name
+FROM people
+ORDER BY name
 
 
 -- Instructions 2
@@ -15,3 +18,7 @@
 -- from longest duration to shortest.
 
 -- MY SOLUTION:
+
+Select title,duration
+from films
+ORDER BY duration DESC
