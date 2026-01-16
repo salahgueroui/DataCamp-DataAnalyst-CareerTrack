@@ -19,7 +19,7 @@
 select release_year,count(distinct (language))as lang_deversity 
 from films
 group by release_year 
-order by lang_deversity desc
+orde/r by lang_deversity desc
 limit 1
 
 --2006
