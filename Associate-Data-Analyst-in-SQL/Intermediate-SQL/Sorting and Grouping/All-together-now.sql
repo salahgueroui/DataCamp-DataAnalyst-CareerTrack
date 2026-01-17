@@ -43,7 +43,7 @@ having avg(budget)>60000000;
 -- Order the results by highest average gross
 -- Limit the output to one result
 
--- MY SOLUTION:
+-- MY SOLUTION:____
 
 SELECT release_year, AVG(budget) AS avg_budget, AVG(gross) AS avg_gross
 FROM films
