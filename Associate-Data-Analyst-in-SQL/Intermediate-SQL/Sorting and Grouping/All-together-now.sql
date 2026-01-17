@@ -30,7 +30,7 @@ GROUP BY release_year;
 -- Modify the query so that only years
 -- with an average budget greater than 60 million are included
 
--- MY SOLUTION:
+-- MY SOLUTION:______
 
 SELECT release_year, AVG(budget) AS avg_budget, AVG(gross) AS avg_gross
 FROM films
