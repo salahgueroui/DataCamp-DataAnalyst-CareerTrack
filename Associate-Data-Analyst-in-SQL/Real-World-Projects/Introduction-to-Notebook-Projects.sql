@@ -13,7 +13,7 @@
 --SELECT
 --    customer_id
 --FROM sales.orders
---WHERE order_id = 9;
+--WHERE order_id = 9;-- replace with 10 and submit to complete the project.
 
 -- MY SOLUTION:
 
