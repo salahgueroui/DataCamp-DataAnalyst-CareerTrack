@@ -11,3 +11,4 @@
 select Count(language)as count_spanish
 from films
 where language='Spanish';
+
