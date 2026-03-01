@@ -1,0 +1,18 @@
+## Exercise
+## Using statistics in the real world
+
+## Instructions
+## - Review the following real-world questions.
+## - Identify which question can be answered
+##   using statistical methods and data analysis.
+## - Select the correct option.
+
+## Possible Answers
+## - Why do some people prefer dogs to cats?
+## - Testing whether a new model of car is safer than the current model?
+## - What factors make one TV show more popular than another?
+## - What will tomorrow's winning lottery numbers be?
+
+## MY SOLUTION:
+
+## - Testing whether a new model of car is safer than the current model?
