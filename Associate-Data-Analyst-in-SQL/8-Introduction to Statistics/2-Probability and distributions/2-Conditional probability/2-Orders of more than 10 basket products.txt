@@ -1,0 +1,28 @@
+## Exercise
+## Orders of more than 10 basket products
+
+## Given Information
+## - Orders with more than 10 items only: 125
+## - Orders for Basket products only: 551
+## - Orders that are both:
+##   more than 10 items AND Basket products: 19
+## - Total number of orders: 1767
+
+## Instructions
+## - Calculate the conditional probability:
+##   P(More than 10 items | Basket products).
+## - Use the formula:
+##   (Number of orders that are both)
+##   divided by
+##   (Total number of Basket product orders).
+## - Select the correct answer.
+
+## Possible Answers
+## - 19/144
+## - 19/570
+## - 144/1767
+## - 19/1767
+
+## MY SOLUTION:
+
+## - 19/570
