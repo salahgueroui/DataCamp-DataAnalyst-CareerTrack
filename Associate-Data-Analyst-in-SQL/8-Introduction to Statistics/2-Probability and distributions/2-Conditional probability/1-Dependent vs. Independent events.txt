@@ -1,0 +1,25 @@
+## Exercise
+## Dependent vs. Independent events
+
+## Instructions
+## - Match each scenario to the correct category.
+## - Classify each event as:
+##   Dependent or Independent.
+
+## MY SOLUTION:
+
+## Dependent
+## - The probability of a sports team winning a championship,
+##   given they are currently at the top of the league.
+## - The probability of being offered a job,
+##   having made it to the final interview stage.
+## - The probability of more than 100mm of rainfall,
+##   given it is currently July.
+
+## Independent
+## - The probability of winning the lottery.
+## - The probability of flipping a coin and getting heads,
+##   given today is Tuesday.
+## - The probability of rolling a six within two attempts
+##   using a fair dice.
+
