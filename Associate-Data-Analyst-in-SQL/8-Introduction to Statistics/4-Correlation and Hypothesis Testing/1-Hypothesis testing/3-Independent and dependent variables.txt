@@ -1,0 +1,27 @@
+## Exercise
+## Independent and dependent variables
+
+## Instructions
+## - Select the dependent variable in this hypothesis test.
+## - Choose one answer.
+
+## Scenario
+## You are testing whether there is a relationship between:
+## - The amount of sunshine a city receives per year
+## - The number of hours worked annually
+
+## The alternative hypothesis states:
+## - More sunshine is associated with fewer hours worked.
+
+## Data Collected
+## - Amount of sunshine in three cities (measured over 100 days)
+## - Number of hours worked from 30 people in each city
+
+## Possible Answers
+## - City
+## - Hours worked annually
+## - Amount of sunshine
+
+## MY SOLUTION:
+
+## - Hours worked annually
