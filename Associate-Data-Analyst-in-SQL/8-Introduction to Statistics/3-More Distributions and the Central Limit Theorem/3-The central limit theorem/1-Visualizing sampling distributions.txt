@@ -1,0 +1,26 @@
+## Exercise
+## Visualizing sampling distributions
+
+## Instructions
+## - Select the correct answer.
+## - Which distribution does the central limit theorem apply to?
+
+## Given Information
+## - An app generates sampling distributions of summary statistics
+##   (e.g., sample means) from different underlying distributions.
+## - You can choose:
+##   • Number of samples  
+##   • Summary statistic (mean)  
+##   • Distribution type  
+## - The example shown displays a sampling distribution
+##   of sample means from a discrete uniform distribution.
+
+## Possible Answers
+## - Discrete uniform distribution
+## - Continuous uniform distribution
+## - Binomial distribution
+## - All of the above
+
+## MY SOLUTION:
+
+## - All of the above
