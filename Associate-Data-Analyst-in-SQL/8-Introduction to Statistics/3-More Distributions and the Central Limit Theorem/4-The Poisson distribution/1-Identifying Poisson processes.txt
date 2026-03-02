@@ -1,0 +1,30 @@
+## Exercise
+## Identifying Poisson processes
+
+## Instructions
+## - Match each scenario to the correct category:
+##   Poisson distribution
+##   or
+##   Other distribution.
+## - Classify each scenario appropriately.
+
+## Given Information
+## - The Poisson distribution models the number of times
+##   an event occurs within a fixed interval of time or space.
+## - It is typically used for:
+##   • Counting events  
+##   • Independent occurrences  
+##   • Events happening at a constant average rate  
+
+## MY SOLUTION:
+
+## Poisson distribution
+## - Number of earthquakes in the state of California in a year.
+## - Number of books sold per week.
+## - Volume of mortgage applications received per month.
+
+## Other distribution
+## - Probability of a mobile phone being broken.
+## - Number of side effects from a range of medications.
+## - Probability of voting for a political candidate.
+
