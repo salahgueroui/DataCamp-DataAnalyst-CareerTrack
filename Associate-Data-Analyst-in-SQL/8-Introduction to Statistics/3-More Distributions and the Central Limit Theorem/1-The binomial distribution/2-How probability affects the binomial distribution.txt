@@ -1,0 +1,35 @@
+## Exercise
+## How probability affects the binomial distribution
+
+## Instructions
+## - Each plot represents a binomial distribution
+##   for a different sales person.
+## - The number of trials (n) is the same for all three.
+## - The probability of success (p) differs for each person.
+## - Determine which sales person has the highest
+##   probability of closing 9 or more sales per week.
+## - Select one correct answer.
+
+## Given Information
+## - A binomial distribution is defined by:
+##   • n = number of trials
+##   • p = probability of success
+## - The x-axis shows the number of sales per week.
+## - The y-axis shows probability.
+## - Three distributions are shown:
+##   • George
+##   • Izzy
+##   • James
+
+## Question
+## Which sales person has the highest probability
+## of closing 9 or more sales per week?
+
+## Possible Answers
+## - George
+## - Izzy
+## - James
+
+## MY SOLUTION:
+
+## - James

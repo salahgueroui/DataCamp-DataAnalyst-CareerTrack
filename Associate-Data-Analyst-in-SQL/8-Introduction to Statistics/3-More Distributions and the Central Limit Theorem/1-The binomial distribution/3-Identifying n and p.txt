@@ -1,0 +1,33 @@
+## Exercise
+## Identifying n and p
+
+## Instructions
+## - Recall that a binomial distribution is determined
+##   by two parameters:
+##     • n = number of trials
+##     • p = probability of success
+## - The expected value corresponds to the highest peak.
+## - Use James' distribution to determine n and p.
+## - Select the correct answer.
+
+## Given Information
+## - The plot shows James' probability distribution
+##   for number of sales per week.
+## - The x-axis represents number of sales (1 to 12).
+## - The y-axis represents probability.
+## - The highest bar indicates the most likely number of sales.
+## - The distribution shape helps identify n and p.
+
+## Question
+## What are the correct values of n and p
+## for James' binomial distribution?
+
+## Possible Answers
+## - n = 8, p = 12
+## - n = 12, p = 0.23
+## - n = 8, p = 0.23
+## - n = 12, p = 0.67
+
+## MY SOLUTION:
+
+## - n = 12, p = 0.67
