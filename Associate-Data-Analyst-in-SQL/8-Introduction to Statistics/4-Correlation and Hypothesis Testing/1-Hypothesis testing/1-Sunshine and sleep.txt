@@ -1,0 +1,26 @@
+## Exercise
+## Sunshine and sleep
+
+## Instructions
+## - Classify each statement as either:
+##   Null hypothesis
+##   or
+##   Alternative hypothesis.
+## - The statements relate to two hypothesis tests:
+##   • Relationship between sunshine and hours of sleep in London  
+##   • Relationship between exercise and blood pressure in elderly men  
+
+## MY SOLUTION:
+
+## Null hypothesis
+## - The amount of exercise performed each week has no effect
+##   on blood pressure in elderly men.
+## - No difference exists between the number of hours London residents sleep
+##   and the amount of sunshine received per day.
+
+## Alternative hypothesis
+## - More exercise is associated with lower blood pressure levels
+##   in elderly men.
+## - A relationship exists between the number of hours of sunshine
+##   received in London per day and the number of hours its residents sleep.
+
