@@ -1,30 +1,26 @@
 ## Exercise
-## Identifying skewness
+## Describing distributions using kurtosis
 
 ## Instructions
-## - Classify each statement as either:
-##   True
-##   or
-##   False.
-## - Use the two distributions shown:
-##   • Distribution of School Size
-##   • Distribution of School Pass Grades
+## - Select the definition that accurately represents
+##   a normal distribution with negative kurtosis.
+## - Choose one answer.
 
 ## Given Information
-## - The first histogram shows the distribution of School Size
-##   (Number of Students).
-## - The second histogram shows the distribution of
-##   School Pass Grades (Percentage achieving pass grades).
+## - Kurtosis describes the size of the central peak
+##   and how spread out the tails are.
+## - Negative kurtosis refers to a distribution
+##   that differs from a typical normal distribution
+##   in peak height and tail thickness.
+
+## Possible Answers
+## - A distribution with the same kurtosis as a normal distribution.
+## - A distribution with a larger central peak and smaller tails
+##   compared to a typical normal distribution.
+## - A distribution with a smaller peak and wider tails
+##   compared to a typical normal distribution.
 
 ## MY SOLUTION:
 
-## True
-## - A small number of schools have over 6000 students.
-## - The distribution of School Pass Grades is right-skewed.
-## - A large number of schools achieve 100% pass grades among their students.
-
-## False
-## - The majority of schools have over 4000 students.
-## - The majority of schools have less than 50% of their students achieving pass grades.
-## - Distribution of School Size is right-skewed.
-
+## - A distribution with a smaller peak and wider tails
+##   compared to a typical normal distribution.
