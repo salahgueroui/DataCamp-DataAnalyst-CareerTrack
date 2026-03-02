@@ -1,0 +1,30 @@
+## Exercise
+## The CLT vs. The law of large numbers
+
+## Instructions
+## - Classify each statement as belonging to:
+##   The law of large numbers
+##   or
+##   The central limit theorem.
+## - Match each statement to the correct concept.
+
+## Given Information
+## - A reminder plot shows distributions of 100 samples
+##   and 1000 samples of a die roll.
+## - The task is to distinguish between:
+##   • Convergence of the sample mean
+##   • The shape of the sampling distribution
+
+## MY SOLUTION:
+
+## The law of large numbers
+## - This concept does not always result in a sample taking
+##   the form of a normal distribution as sample size increases.
+## - As the sample increases, the sample mean gets closer
+##   to the value of the population mean.
+
+## The central limit theorem
+## - As the number of sample summary statistics calculated increases,
+##   the distribution will more closely resemble a normal distribution.
+## - This concept generally applies once the sample size is 30 or more.
+
