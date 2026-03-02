@@ -1,0 +1,26 @@
+## Exercise
+## Why use randomization?
+
+## Instructions
+## - Select the one answer that best describes why randomization is useful
+##   when running a controlled trial.
+
+## Scenario
+## Controlled trials split participants into either:
+## - A control group
+## - A treatment group
+
+## Your task:
+## Choose the reason that best explains why randomization is beneficial
+## in this process.
+
+## Possible Answers
+## - To reduce bias caused by assigning to groups based on specific characteristics.
+## - To ensure groups are comparable.
+## - To maximize the chance of the results being normally distributed.
+## - To reduce bias, ensure groups are comparable, and increase the chances that results will be representative of the target population.
+## - To prevent participants from knowing whether they are in the treatment or control group.
+
+## MY SOLUTION:
+
+To reduce bias, ensure groups are comparable, and increase the chances that results will be representative of the target population.
