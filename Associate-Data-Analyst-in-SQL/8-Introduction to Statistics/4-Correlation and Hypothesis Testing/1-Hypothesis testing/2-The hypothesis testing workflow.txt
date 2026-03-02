@@ -1,0 +1,23 @@
+## Exercise
+## The hypothesis testing workflow
+
+## Instructions
+## - Order the sequence of events to accurately represent
+##   a general hypothesis testing workflow.
+## - Arrange the steps from first to last.
+
+## Scenario
+## You are testing whether a difference exists
+## in the frequency of colds among 18–30 year olds
+## who are meat-eaters and vegetarians.
+
+## MY SOLUTION (ordered steps):
+
+## Steps to Order
+## - Define the population: adults aged 18 to 30 who eat meat or are vegetarian.
+## - Define the null hypothesis: there is no difference in the frequency of colds among meat-eaters and vegetarians.
+## - Define the alternative hypothesis: young adults who eat meat experience more colds.
+## - Collect the data: diet status and number of colds in the last six months.
+## - Perform statistical tests on the sample data: difference in mean number of colds between the two populations.
+## - Draw conclusions about the population: are the frequency of colds different for young adults who consume meat?
+
