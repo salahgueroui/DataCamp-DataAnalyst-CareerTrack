@@ -1,0 +1,37 @@
+## Exercise
+## Type I and Type II errors
+
+## Instructions
+## - Based on the sample mean distributions shown,
+##   choose the correct conclusion.
+## - Select one answer.
+
+## Scenario
+## You are testing whether there is a difference in average weight
+## between adult men in:
+## - Madrid, Spain
+## - Berlin, Germany
+
+## Null hypothesis (H₀):
+## There is no difference in weight between men in Madrid and Berlin.
+
+## Alternative hypothesis (H₁):
+## Men in Berlin are heavier than those in Madrid.
+
+## Additional information:
+## - Significance level (α) = 0.05
+## - 100 adult male residents sampled from each city
+## - 10,000 sample means generated using sampling with replacement
+
+## Your task:
+## Determine the appropriate conclusion based on the distributions shown.
+
+## Possible Answers
+## - Reject the null hypothesis, men in Berlin are heavier than men in Madrid.
+## - Don’t reject the null hypothesis: there is not enough evidence for significant differences between men’s weight in Berlin and Madrid.
+## - It is impossible to determine this from the plot.
+## - Reject the null hypothesis, men in Madrid are heavier than men in Berlin.
+
+## MY SOLUTION:
+
+## - Don’t reject the null hypothesis: there is not enough evidence for significant differences between men’s weight in Berlin and Madrid.
